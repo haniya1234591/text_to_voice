@@ -1,5 +1,2 @@
 streamlit
 gTTS
-gtts
-io
-BytesIO
